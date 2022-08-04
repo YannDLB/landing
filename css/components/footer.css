@@ -1,0 +1,17 @@
+.footer {
+background-color: rgba(39, 67, 144, 0.943);
+margin-bottom: 0;
+padding: 30px 0;
+font-size: x-large;
+color: rgb(12, 12, 37);
+}
+
+.footer a {
+  width: 40px;
+  color: aliceblue;
+  padding: 20px 0;
+}
+
+.footer a:hover {
+  color: rgb(51, 60, 67);
+}

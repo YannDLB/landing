@@ -1,0 +1,12 @@
+.container-head {
+  color: whitesmoke;
+  font-family: "Square Peg", cursive;
+  font-size: xx-large;
+  text-shadow: 0 3px 3px rgba(0, 0, 0, 0.7);
+  margin-right: 50px;
+  text-align: right;
+}
+
+.container-corp {
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+.banner-head{
+  display: flex;
+  justify-content: flex-end;
+  background-image: url("https://blog.cannesyachtingfestival.com/wp-content/uploads/2019/04/bien-choisir-son-voilier.png");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  padding: 200px 0px
+}

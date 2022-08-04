@@ -1,0 +1,17 @@
+.button {
+  padding: 7px 20px;
+  border-radius: 40px;
+  color: rgb(162, 164, 172);
+  border: 1px solid #999;
+  font-weight: lighter;
+  font-family: "Open Sans";
+  opacity: 0.7;
+  background-color: whitesmoke;
+  text-shadow: none;
+}
+
+.button:hover {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: whitesmoke;
+}

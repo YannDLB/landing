@@ -1,0 +1,17 @@
+.card-main{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-corp {
+  width: 200px;
+  height: 330px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.4);
+  margin-bottom: 40px;
+}
+
+.card-corp img {
+  padding-top: 10px;
+  width: 180px;
+  height: 180px;
+}
